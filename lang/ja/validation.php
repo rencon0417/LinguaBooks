@@ -157,6 +157,7 @@ return [
         'title' => '件名',
         'content' => '本文',
         'name' => '名前',
+        'password' => 'パスワード',
         'memo' => 'メモ',
         'price' => '料金',
         'kana' => 'カナ',
